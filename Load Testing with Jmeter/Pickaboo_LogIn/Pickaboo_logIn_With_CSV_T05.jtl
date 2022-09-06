@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1662459413658,1248,HTTP Request,302,Found,Thread Group 1-1,text,true,,1446,282,2,2,https://www.pickaboo.com/customer/account/loginPost/,1248,0,1043
+1662459414468,527,HTTP Request,302,Found,Thread Group 1-2,text,true,,1446,277,1,1,https://www.pickaboo.com/customer/account/loginPost/,527,0,337
+1662459415467,470,HTTP Request,302,Found,Thread Group 1-3,text,true,,1446,281,1,1,https://www.pickaboo.com/customer/account/loginPost/,470,0,248
+1662459416466,451,HTTP Request,302,Found,Thread Group 1-4,text,true,,1446,282,1,1,https://www.pickaboo.com/customer/account/loginPost/,451,0,233
+1662459417465,439,HTTP Request,302,Found,Thread Group 1-5,text,true,,1446,279,1,1,https://www.pickaboo.com/customer/account/loginPost/,439,0,253
